@@ -28,15 +28,15 @@ Aquí un vistazo de las tecnologías con las que he trabajado o estoy aprendiend
 * **Lenguajes de Programación:**
     * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (Básico - Proyectos Académicos)
     * ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) (Básico - Proyecto Grupal)
-    * C++ (Aprendiendo - Enfocado en UE)
+    * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Aprendiendo - Enfocado en UE)
     * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (Aprendiendo - Conceptos Frontend Nivel Estudio)
     * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) / ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) (Aprendiendo - Conceptos Frontend Nivel Estudio)
 * **Motores de Videojuegos:**
     * ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) (Aprendiendo activamente - Nivel Intermedio)
 * **Cloud:**
     * ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) (Nivel Foundational - Conceptos)
-* **Conceptos:** Backend (Principios), Bases de Datos (SQL - Básico), Control de Versiones (Git), Metodologías Ágiles.
-* **Software de Arte:** Blender, Maya, Photoshop, Illustrator, Unreal Engine 4.26 en adelante.
+* **Conceptos:** Backend (Principios), Bases de Datos (![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) - Básico), Control de Versiones (![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)), Metodologías Ágiles.
+* **Software de Arte:** ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white), Maya, ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white), ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white), Unreal Engine 4.26 en adelante.
 
 ---
 
@@ -44,12 +44,10 @@ Aquí un vistazo de las tecnologías con las que he trabajado o estoy aprendiend
 
 Aunque mi foco actual es Unreal Engine, aquí hay algunos proyectos de la tecnicatura donde apliqué mis conocimientos de programación:
 
-* **Club Deportivo**: (C#) Aplicación de escritorio para suplir la necesidad de un club deportivo para administrar clientes, haciendo distincion entre socios(mensuales) y no socios(del día) usando Windows Forms, con posibilidad de emitir carnet de pago, y recibo
-  de pago, desarrollada en equipo. [Enlace al Repo]().
 * **Clínica SePrice**: (C#) Aplicación de escritorio creada para resolver la necesidad de una clinica que tenia consultorios externos y una parte de estudios medicos, donde un administrativo debia administrar los turnos con las especialidades de los medicos, sus
-  horarios y dias disponibles, cancelacion de turnos, carga de estudios en sistema, aviso de entrega de estudios, y listado de stock disponible de insumos, con aviso respectivo cuando las unidades son menores a 10, desarrollada en equipo. [Enlace al Repo]().
+  horarios y dias disponibles, cancelacion de turnos, carga de estudios en sistema, aviso de entrega de estudios, y listado de stock disponible de insumos, con aviso respectivo cuando las unidades son menores a 10, desarrollada en equipo. [Enlace al Repo](https://github.com/marianohlopez/ClinicaSePrice).
 * **Club Deportivo Mobile**: (Kotlin) Aplicación móvil Android donde se adaptó el aplicativo para windows, para telefonos android, se hicieron pequeñas modificaciones en la funcionalidad, manteniendo la resolución de los problemas que nos trajo el cliente
-  desarrollada en equipo. [Enlace al Repo]().
+  desarrollada en equipo. [Enlace al Repo](https://github.com/marianohlopez/SportClub).
 
 * *(Próximamente: ¡Proyectos personales en Unreal Engine explorando composición en cinemáticas, shaders, herramientas de pipeline, Blueprints avanzados y más!)*
 
