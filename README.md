@@ -69,6 +69,6 @@ Aunque mi foco actual es Unreal Engine, aquí hay algunos proyectos de la tecnic
 * **LinkedIn:** https://www.linkedin.com/in/facundovillarreal
 * **Email:** facu.villarreal.94@gmail.com
 * **ArtStation:** https://www.artstation.com/facu041294
-* **Portfolio/Sitio Web:** https://facu041294.github.io/Portfolio_FacundoVillarreal_TDS/#contact-form-section
+* **Portfolio/Sitio Web:** https://facu041294.github.io/Portfolio_FacundoVillarreal_TDS
 
 ---
