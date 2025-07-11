@@ -15,7 +15,7 @@ Actualmente estoy construyendo mi camino, aprendiendo y experimentando para desa
 ### 🌱 En qué estoy Enfocado Ahora:
 
 * Profundizando mis conocimientos en **Unreal Engine**: Explorando Blueprints, el Material Editor, sistemas de partículas (Niagara) y Shaders.
-* Iniciando el aprendizaje de **C++** orientado a Unreal Engine para poder crear herramientas y funcionalidades más complejas.
+* Iniciando el aprendizaje de **Python** orientado a Unreal Engine para poder crear herramientas y automatizaciones.
 * Aplicando conceptos de **Ingeniería de Software** (aprendidos en la tecnicatura) al desarrollo de herramientas y pipelines para arte.
 * Mejorando mis habilidades en **Blender**, **Davinci Resolve** y **Houdini**.
 
@@ -28,7 +28,7 @@ Aquí un vistazo de las tecnologías con las que he trabajado o estoy aprendiend
 * **Lenguajes de Programación:**
     * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (Básico - Proyectos Académicos)
     * ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) (Básico - Proyecto Grupal)
-    * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Aprendiendo - Enfocado en UE)
+    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Aprendiendo - Enfocado en UE)
     * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (Aprendiendo - Conceptos Frontend Nivel Estudio)
     * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) / ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) (Aprendiendo - Conceptos Frontend Nivel Estudio)
 * **Motores de Videojuegos:**
@@ -48,6 +48,9 @@ Aunque mi foco actual es Unreal Engine, aquí hay algunos proyectos de la tecnic
   horarios y dias disponibles, cancelacion de turnos, carga de estudios en sistema, aviso de entrega de estudios, y listado de stock disponible de insumos, con aviso respectivo cuando las unidades son menores a 10, desarrollada en equipo. [Enlace al Repo](https://github.com/marianohlopez/ClinicaSePrice).
 * **Club Deportivo Mobile**: (Kotlin) Aplicación móvil Android donde se adaptó el aplicativo para windows, para telefonos android, se hicieron pequeñas modificaciones en la funcionalidad, manteniendo la resolución de los problemas que nos trajo el cliente
   desarrollada en equipo. [Enlace al Repo](https://github.com/marianohlopez/SportClub).
+* **Portfolio Minimalista**: (HTML + CSS) Landing Page armada para mostrar los fundamentos de HTML y CSS aplicados con un responsivo básico. [Enlace al Repo](https://github.com/facu041294/Portfolio_FacundoVillarreal_TDS).
+* **Sistema Backend para Veterinaria "Huellitas Felices"**: Aplicación web realizada en equipo, que simula un sistema de gestión para una clínica veterinaria, incluyendo manejo de productos, mascotas, turnos y reportes de mascotas perdidas/encontradas. [Enlace al Repo](https://github.com/marianohlopez/IFTS---Backend)
+* **Portfolio Technical Artist**: (HTML + CSS + JavaScript) Landing Page armada para uso profesional propio, donde se aplican los conocimientos aprendidos, por el momendo con JS vanilla preparado modularmente para proximamente hacer el cambio de arquitectura a React + Tailwind como version final. [Enlace al Repo](https://github.com/facu041294/PortfolioTechArt).
 
 * *(Próximamente: ¡Proyectos personales en Unreal Engine explorando composición en cinemáticas, shaders, herramientas de pipeline, Blueprints avanzados y más!)*
 
@@ -55,7 +58,6 @@ Aunque mi foco actual es Unreal Engine, aquí hay algunos proyectos de la tecnic
 
 ### 🎯 Metas Futuras:
 
-* Dominar C++ aplicado a Unreal Engine para desarrollo de Gameplay y Herramientas.
 * Comenzar con el estudio de Python aplicado a scripts en unreal engine y software relacionados.
 * Profundizar en la creación de Shaders complejos y Materiales avanzados.
 * Desarrollar herramientas que automaticen y optimicen pipelines de producción artística.
@@ -66,9 +68,8 @@ Aunque mi foco actual es Unreal Engine, aquí hay algunos proyectos de la tecnic
 
 ### 📫 Contáctame:
 
-* **LinkedIn:** https://www.linkedin.com/in/facundovillarreal
-* **Email:** facu.villarreal.94@gmail.com
-* **ArtStation:** https://www.artstation.com/facu041294
-* **Portfolio/Sitio Web:** https://facu041294.github.io/Portfolio_FacundoVillarreal_TDS
+* **[LinkedIn](https://www.linkedin.com/in/facundovillarreal)**
+* **[ArtStation](https://www.artstation.com/facu041294)**
+* **[Portfolio/Sitio Web](https://facu041294.github.io/PortfolioTechArt)**
 
 ---
